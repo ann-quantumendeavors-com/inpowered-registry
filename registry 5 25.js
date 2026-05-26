@@ -1,4 +1,4 @@
-const coaches = require('./coaches.js').default;
+//const coaches = require('./coaches.js').default;
 
 let F = { icf:'all', method:'all', region:'all' };
 
