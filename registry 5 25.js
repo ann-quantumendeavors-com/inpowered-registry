@@ -1,5 +1,4 @@
-import coaches from './coaches.js'
-/*const coaches = [
+const coaches = [
   {
     name: "Kristen Dombrowski",
     business: "Kristen Dombrowski, LLC",
@@ -93,7 +92,6 @@ import coaches from './coaches.js'
     location: "Portland, OR, USA"
   }
 ];
-*/
 
 let F = { icf:'all', method:'all', region:'all' };
 
