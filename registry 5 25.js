@@ -1,5 +1,5 @@
-//const coaches = require('./coaches.js').default;
-const coaches = [
+import coaches from './coaches.js'
+/*const coaches = [
   {
     name: "Kristen Dombrowski",
     business: "Kristen Dombrowski, LLC",
@@ -93,6 +93,7 @@ const coaches = [
     location: "Portland, OR, USA"
   }
 ];
+*/
 
 let F = { icf:'all', method:'all', region:'all' };
 
