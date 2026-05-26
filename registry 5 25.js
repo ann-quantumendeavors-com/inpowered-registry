@@ -32,7 +32,7 @@ function renderIndex(list) {
       </thead>
       <tbody>
         ${list.map((c, i) => `
-          <tr onclick="openModal(${coaches.indexOf(c)})"style="border-bottom:0.5px solid #C8C5BB;cursor:pointer;transition:background 0.15s;" 
+          <tr onclick="openModal(${coaches.indexOf(c)})" style="border-bottom:0.5px solid #C8C5BB;cursor:pointer;transition:background 0.15s;" 
               onmouseover="this.style.background='#EEF2F9'" onmouseout="this.style.background='${i%2===0?'#fff':'#FAFAF8'}'">
             <td style="padding:10px 20px;background:${i%2===0?'#fff':'#FAFAF8'};">
               <span style="font-family:'Cormorant Garamond',serif;font-size:15px;font-weight:500;color:#1B3A6B;">${c.name}</span>
