@@ -94,7 +94,6 @@ const coaches = [
   }
 ];
 
-export default coaches;
 let F = { icf:'all', method:'all', region:'all' };
 
 const initials = n => n.split(' ').slice(0,2).map(x=>x[0]).join('');
