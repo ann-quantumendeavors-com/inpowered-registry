@@ -36,7 +36,7 @@ const coaches = [
     specialties: "Coaching and Leadership Development; Transformation and Change; Elevating Leadership; Team Effectiveness and Impact; Strategy and Vision",
     certs: "CPCC (Co-Active Training Institute), ICF Professional Certified Coach (PCC), Certified Executive Coach (QE Corporate Coach Academy), Team Coach (Global Team Coaching Institute), DISC, Leadership Circle Profile (LCP), PROSCI, CCMP",
     methods: {"Inpowered® Corporate Coach":true,"Inpowered® Leadership Coach":false,"Inpowered® Onboarding Coach":false,"Inpowered® Team Coach":false,"Quantum 360®":false,"QE Certified Executive Coach":true,"QE Certified Leadership Coach":false},
-    location: "Atlanta, GA, USA"
+    location: "Chicago, IL, USA"
   },
   {
     name: "Liz Donovan",
